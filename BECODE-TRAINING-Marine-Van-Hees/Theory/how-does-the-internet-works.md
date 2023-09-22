@@ -13,8 +13,8 @@ __*The internet works thanks to the cables buried in the ground which connects a
 + Files or web pages are on the server's hard drive.
 + Every server has a unique Internet Protocol address (IP address)
 
-[!NOTE]
-IP addresses help computers find each other.
+>[!NOTE]
+>IP addresses help computers find each other.
 
 ## 2. Home computer:
 
