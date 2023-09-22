@@ -2,7 +2,7 @@
 
 ## __Marine Van Hees__
 
-### __Junior Developer__
+### __Student Junior Developer__
 
 I'm a 31 years old woman who like video games since her childhood but is still a noob because no money or don't take the time to play anymore.
 
